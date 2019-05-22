@@ -1,0 +1,244 @@
+   
+/* Aqui estan los estilos para Inicio */
+
+.imagen_inicio{
+	
+	width:200px; 
+	max-height: 300px; 
+	margin:auto;
+}
+
+.container_home{
+	margin: 20px;
+	text-align: center;
+}
+
+.carousel-inner{
+	margin-top: 50px;
+}
+
+.row_redes_sociales{
+	
+   
+	
+	
+}
+
+
+/* Aqui empiezan las hojas de estilo para nosotros.html */
+
+.container_nosotros {
+	background-color: white;
+	margin-top: 80px;
+	
+}
+
+.row_mision{
+	
+	background-color: lightgrey;
+	border-radius: 10px;
+    text-align: justify;
+	border: black 1px solid;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	
+	
+}
+
+.row_vision{
+	
+	background-color: lightgrey;
+	border-radius: 10px;
+	text-align: justify;
+	border: black 1px solid;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	
+}
+
+.row_valores{
+	
+	background-color: lightgrey;
+	border-radius: 10px;
+	text-align: justify;
+	border: black 1px solid;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	
+}
+
+.row_organigrama{
+	
+	margin-left: 15px;
+	
+	
+}
+
+
+/* Aqui empiezan las hojas de estilo para Productos */
+
+.container_productos {
+	margin: 90px auto auto 20px;
+}
+
+.row_button{
+	text-align:center;
+}
+
+.row_texto_perfume{
+		
+	background-color: lightgrey;
+	border-radius: 10px;
+    text-align: justify;
+	border: black 1px solid;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+
+/* Aqui inicia las hojas de estilo para Contacto */
+
+.container_contacto{
+	
+margin: 100px 200px	100px 200px;	
+
+}
+
+
+
+
+
+
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+		background-color: #494949;
+		opacity: 0.9;
+		
+    }
+.navbar-nav {
+    position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  
+    background-color: black;
+}
+
+
+
+
+
+.img-center{
+	margin:0;
+} 
+.navbar-inverse{border-color: black;}
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      
+      padding: 25px;
+    }
+    
+  .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+      min-height:200px;
+  }
+
+.img-small{
+	width:25%
+}
+
+.img-medium{
+	width:50%
+}
+
+.img-full{
+	width:100%
+}
+
+.img-large{
+	width: 150%;
+}
+
+  /* Hide the carousel text when the screen is less than 600 pixels wide */
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; 
+    }
+  }
+
+
+
+
+
+
+/* Aqui inicia las hojas de estilo para las paginas de compra de los perfumes */
+
+.container_pagina_compra_perfume{
+	
+	margin: 100px 300px 100px 300px;
+	
+}
+
+.row_perfume_compra{
+	
+	background-color: lightgrey;
+	border-radius: 10px;
+    text-align: justify;
+	border: black 1px solid;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+    
+	
+}
+
+.row_button_finalizar {
+	
+	text-align: center;
+	
+}
+
+/* Aqui inicia la hoja de estilos para la pagina de compra finalizada */
+
+
+.row_texto_compra_finalizada{
+	
+	text-align:center;
+	margin:auto;
+	
+}
+
+.container_compra_finalizada{
+	
+	margin: 70px auto;
+    
+	align-content: center;
+
+	
+}
+
+
+
+
+
+/* Aqui empiezan las hojas de estilo para el footer */
+
+.row_footer {
+	
+	background-color:darkgreen;
+	
+	
+}
+
+/* CSS Document */
+
